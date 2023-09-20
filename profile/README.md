@@ -1,4 +1,4 @@
-![OWND Project Logo](../media/ownd-project-logo.png)
+![OWND Project Logo](https://raw.githubusercontent.com/OWND-Project/.github/main/media/ownd-project-logo.png)
 
 # 概要
 
@@ -8,7 +8,7 @@ OWND Project は個人が主体となるデジタルアイデンティティー�
 
 国際標準技術に準拠したホワイトラベルのデジタルアイデンティティーウォレットおよび、E2E暗号化に対応したFederation型のメッセージングアプリケーションをオープンソースソフトウェアとして開発し、トラストを担保するガバナンスについても議論を行います。
 
-[OWND Project の概要説明資料](./ownd-project.pdf)
+[OWND Project の概要説明資料](https://github.com/OWND-Project/.github/blob/main/profile/ownd-project.pdf)
 
 [Trusted Web についてはこちら](https://trustedweb.go.jp/)
 
@@ -24,7 +24,7 @@ OWND Project は個人が主体となるデジタルアイデンティティー�
 
 OWND walletをベースとしたさまざまなウォレットやユースケースが創出されることを想定し、それぞれのウォレットの相互運用性を確保することを目指す。
 
-![OWND Wallet Image](../media/ownd-wallet.png)
+![OWND Wallet Image](https://raw.githubusercontent.com/OWND-Project/.github/main/media/ownd-wallet.png)
 
 #### 開発物（予定）
 
@@ -42,7 +42,7 @@ OWND walletを用いてアイデンティティを管理できる、E2E暗号化
 
 年齢証明書や所属証明書を活用し、相手方を確認してメッセージングを行う。
 
-![OWND Messenger Image](../media/ownd-messenger.png)
+![OWND Messenger Image](https://raw.githubusercontent.com/OWND-Project/.github/main/media/ownd-messenger.png)
 
 #### 開発物（予定）
 
