@@ -12,12 +12,6 @@ OWND Project は個人が主体となるデジタルアイデンティティー�
 
 [Trusted Web についてはこちら](https://trustedweb.go.jp/)
 
-# 参加方法
-
-興味をもった方はどなたでもご参加ください。
-
-[OWND Project Matrix スペース](https://matrix.to/#/!EdKfOXCYPSFCXmxTqw:matrix.org?via=matrix.org)
-
 ## OWND Wallet
 
 国際標準技術に準拠したホワイトラベルのデジタルアイデンティティーウォレット。
@@ -49,4 +43,28 @@ OWND walletを用いてアイデンティティを管理できる、E2E暗号化
 * プロトコルには [Matrix](https://github.com/matrix-org) を採用
 * サーバーサイドは [Synapse](https://github.com/matrix-org/synapse) にSIOPv2、OID4VPおよび各種証明書へ対応するためのを機能を追加実装
 * クライアントサイドは [Element Web](https://github.com/vector-im/element-web) にSIOPv2、OID4VPおよび各種証明書へ対応するためのを機能を追加実装
+
+## ガバナンスについて
+
+#### OWND Project のガバナンス
+
+* OSS開発プロジェクトとして適切性をどう担保するか
+* 適切な開発物を開発することをどう担保するか
+* 参加インセンティブをどのように設計するか
+* システムが適切に動作することをどのように担保するか
+* OWND Projectの開発物をベースとしたシステムがその適切性を引き継いでいることをどう担保するか
+* OWND Projectの開発物をベースとしたシステムの運用者の適切性をどう担保するか
+
+#### Issuer-Holder-Verifier モデルのガバナンス
+
+* Issuer : 当該証明書を発行する機関としての適格性をどう担保するか
+* Wallet : 当該証明書の管理システムとしての適格性をどう担保するか
+* Verifier : 当該証明書の提示先としての適格性をどう担保するか
+
+# 参加方法
+
+興味をもった方はどなたでもご参加ください。
+
+[OWND Project Matrix スペース](https://matrix.to/#/!EdKfOXCYPSFCXmxTqw:matrix.org?via=matrix.org)
+
 
